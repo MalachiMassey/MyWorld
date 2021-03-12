@@ -1,0 +1,10 @@
+C:\Users\hanso\source\repos\MyWorld\MyWorld\bin\Release\MyWorld.exe.config
+C:\Users\hanso\source\repos\MyWorld\MyWorld\bin\Release\MyWorld.exe.manifest
+C:\Users\hanso\source\repos\MyWorld\MyWorld\bin\Release\MyWorld.application
+C:\Users\hanso\source\repos\MyWorld\MyWorld\bin\Release\MyWorld.exe
+C:\Users\hanso\source\repos\MyWorld\MyWorld\bin\Release\MyWorld.pdb
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Release\MyWorld.csproj.CoreCompileInputs.cache
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Release\MyWorld.exe.manifest
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Release\MyWorld.application
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Release\MyWorld.exe
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Release\MyWorld.pdb

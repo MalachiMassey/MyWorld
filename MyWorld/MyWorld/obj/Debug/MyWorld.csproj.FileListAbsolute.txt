@@ -1,0 +1,7 @@
+C:\Users\hanso\source\repos\MyWorld\MyWorld\bin\Debug\MyWorld.exe.config
+C:\Users\hanso\source\repos\MyWorld\MyWorld\bin\Debug\MyWorld.exe
+C:\Users\hanso\source\repos\MyWorld\MyWorld\bin\Debug\MyWorld.pdb
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Debug\MyWorld.csprojAssemblyReference.cache
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Debug\MyWorld.csproj.CoreCompileInputs.cache
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Debug\MyWorld.exe
+C:\Users\hanso\source\repos\MyWorld\MyWorld\obj\Debug\MyWorld.pdb
